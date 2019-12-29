@@ -13,7 +13,7 @@ Advanced iOS Volume 2
 # Education supplier
 This iOS app project is from the iBook “Advanced iOS Volumes Series, authored by Paul Hudson.
 
-# Topics / milestones
+# Technologies
 
 - CoreML
 
